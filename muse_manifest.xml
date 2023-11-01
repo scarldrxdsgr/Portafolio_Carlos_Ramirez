@@ -1,0 +1,76 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CarlosRam.Designer.com" resolutions="1x" timestamp="1698791965592">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="social-media.css" crc="403350049" ref="social-media"/>
+    <file name="presentaci_n.css" crc="411609201" ref="presentación"/>
+    <file name="cont_ctame.css" crc="373215244" ref="contáctame"/>
+    <file name="dise_o-editorial.css" crc="1713147" ref="diseño-editorial"/>
+    <file name="dise_o-web.css" crc="57825360" ref="diseño-web"/>
+    <file name="logos.css" crc="3960617985" ref="logos"/>
+    <file name="index.css" crc="204893814" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="museutils.js" crc="3939489907" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="whatinput.js" crc="86476730" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="require.js" crc="4177726516" ref="index:presentación:logos:diseño-editorial:social-media:diseño-web:contáctame"/>
+    <file name="webpro.js" crc="3856315280" ref="contáctame"/>
+    <file name="form_check.php" crc="4108222811" ref="contáctame"/>
+    <file name="form_throttle.php" crc="503802655" ref="contáctame"/>
+    <file name="form_process.php" crc="260214869" ref="contáctame"/>
+    <file name="form-u2052.php" crc="374323370" ref="contáctame"/>
+  </folder>
+  <folder name="images">
+    <file name="recurso 6.jpg" crc="3847947791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 7.jpg" crc="296057850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 28.jpg" crc="4193043367" seo="true" ref="presentación">
+      <caption webpage="presentación" alt=""/>
+    </file>
+    <file name="recurso 29.jpg" crc="4174124887" seo="true" ref="presentación">
+      <caption webpage="presentación" alt=""/>
+      <caption webpage="presentación" alt=""/>
+    </file>
+    <file name="recurso 12.jpg" crc="4209051601" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="recurso 13.jpg" crc="83116388" seo="true" ref="diseño-editorial">
+      <caption webpage="diseño-editorial" alt=""/>
+    </file>
+    <file name="recurso 38.png" crc="416870367" seo="true" ref="social-media">
+      <caption webpage="social-media" alt=""/>
+    </file>
+    <file name="recurso 39.png" crc="366761120" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="recurso 41.png" crc="479584804" seo="true" ref="contáctame">
+      <caption webpage="contáctame" alt=""/>
+    </file>
+    <file name="instagram.png" crc="3876134161" seo="true" ref="contáctame">
+      <caption webpage="contáctame" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="3781607658" seo="true" ref="contáctame">
+      <caption webpage="contáctame" alt=""/>
+    </file>
+    <file name="behance.png" crc="4095425583" seo="true" ref="contáctame">
+      <caption webpage="contáctame" alt=""/>
+    </file>
+    <file name="recurso 40.png" crc="3917580070" seo="true" ref="contáctame">
+      <caption webpage="contáctame" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016084928" seo="true" mt="1698789886132" redirect="true"/>
+  <file name="presentación.html" crc="4172067302" seo="true" mt="1698789886127" redirect="true"/>
+  <file name="logos.html" crc="4207985627" seo="true" mt="1698789886128" redirect="true"/>
+  <file name="diseño-editorial.html" crc="3816145908" seo="true" mt="1698789886129" redirect="true"/>
+  <file name="social-media.html" crc="3911657858" seo="true" mt="1698789886130" redirect="true"/>
+  <file name="diseño-web.html" crc="278145057" seo="true" mt="1698789886131" redirect="true"/>
+  <file name="contáctame.html" crc="3878419136" seo="true" mt="1698791721391" redirect="true"/>
+</manifest>
